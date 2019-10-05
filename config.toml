@@ -1,0 +1,36 @@
+baseurl       = "https://beam-fosdem.org"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+title         = "BEAM FOSDEM"
+canonifyurls  = true
+
+DefaultContentLanguage = "en"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+
+[Params]
+  subtitle = "Erlang, Elixir & Friends Devroom at FOSDEM'20"
+  logo = "img/fosdem_circle.png"
+  favicon = "img/fosdem.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+
+[Author]
+  # name = ""
+  email = "beam-devroom@lists.fosdem.org"
+  gitlab = "dcaixinha/beam-fosdem"
+
+[[menu.main]]
+    name = "Call for Talks"
+    url = "call-for-talks"
+    weight = 1
+
+[[menu.main]]
+    name = "About Us"
+    url = "/about-us/"
+    weight = 2
