@@ -46,10 +46,9 @@ When logged in, click on the *'Create Event'* button (on the left menu) to creat
 If you have any issues with *Pentabarf*, do not despair! Reach us at *beam-devroom[at]lists.fosdem.org*.
 
 <p style="text-align: center">
-  <a href="https://penta.fosdem.org/submission/FOSDEM20">
-    <i class="fab"><strong>Click here to submit your talk!</strong></i>
-  </a>
+  <i class="fab"><strong>Click here to submit your talk!</strong></i>
 </p>
+
 ## Important Dates
 
  - Call for papers opens: **14 October 2019**
