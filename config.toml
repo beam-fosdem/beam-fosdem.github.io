@@ -19,6 +19,7 @@ pygmentCodeFences = true
   commit = false
   rss = true
   comments = true
+  table = false
 
 [Author]
   # name = ""
@@ -26,11 +27,16 @@ pygmentCodeFences = true
   gitlab = "dcaixinha/beam-fosdem"
 
 [[menu.main]]
-    name = "Call for Talks"
-    url = "call-for-talks"
+    name = "Schedule"
+    url = "schedule"
     weight = 1
 
 [[menu.main]]
-    name = "About Us"
-    url = "/about-us/"
+    name = "Call for Talks"
+    url = "call-for-talks"
     weight = 2
+
+[[menu.main]]
+    name = "About Us"
+    url = "about-us"
+    weight = 3

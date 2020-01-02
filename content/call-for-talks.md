@@ -5,6 +5,8 @@ date: "2019-10-08"
 comments: false
 ---
 
+⚠️ _The Call for Talks has officially ended. You can find the final schedule [here](/schedule)._ ⚠️
+
 The Erlang, Elixir & Friends Devroom will take place on **Saturday, 1 February 2020**. We invite authors to submit original, high-quality work with sufficient background material to be clear to the BEAM community.
 
 We welcome any talk proposals about BEAM-related projects. Topics of interest include, but are not limited to:
@@ -51,4 +53,4 @@ If you have any issues with *Pentabarf*, do not despair! Reach us at *beam-devro
  - Call for papers opens: **14 October 2019**
  - Call for papers closes: **25 November 2019**
  - Devroom schedule available: **16 December 2019**
- - Devroom day: **Saturday, 1 February 2020 (hour slot TBD)**
+ - Devroom day: **Saturday, 1 February 2020 (10:30–14:30)**
