@@ -40,3 +40,6 @@ pygmentCodeFences = true
     name = "About Us"
     url = "about-us"
     weight = 3
+
+[markup.goldmark.renderer]
+    unsafe= true
