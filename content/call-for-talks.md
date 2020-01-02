@@ -5,7 +5,9 @@ date: "2019-10-08"
 comments: false
 ---
 
+{{% center %}}
 ⚠️ _The Call for Talks has officially ended. You can find the final schedule [here](/schedule)._ ⚠️
+{{% /center %}}
 
 The Erlang, Elixir & Friends Devroom will take place on **Saturday, 1 February 2020**. We invite authors to submit original, high-quality work with sufficient background material to be clear to the BEAM community.
 
