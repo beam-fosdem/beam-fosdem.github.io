@@ -32,8 +32,8 @@ pygmentCodeFences = true
     weight = 1
 
 [[menu.main]]
-    name = "Call for Talks"
-    url = "call-for-talks"
+    name = "Videos"
+    url = "video"
     weight = 2
 
 [[menu.main]]
