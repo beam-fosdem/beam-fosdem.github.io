@@ -33,7 +33,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     name = "Videos"
-    url = "video"
+    url = "videos"
     weight = 2
 
 [[menu.main]]
