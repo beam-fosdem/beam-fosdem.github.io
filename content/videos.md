@@ -45,3 +45,16 @@ by Luke Imhoff
 </video>
 
 [FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_lumen_elixir_browser/)
+
+------
+
+### CoffeeBeam: A BEAM VM for Android
+
+by 	Viktor Gergely
+
+<video controls>
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_coffeebeam_beam_vm_android.mp4" type="video/mp4" />
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_coffeebeam_beam_vm_android.webm" type="video/webm" />
+</video>
+
+[FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_coffeebeam_beam_vm_android/)
