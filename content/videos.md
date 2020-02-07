@@ -27,6 +27,8 @@ by Loïc Hoguin
 by Greg Mefford
 
 <video controls>
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_opentelemetry_xkcd_927_success_story.mp4" type="video/mp4" />
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_opentelemetry_xkcd_927_success_story.webm" type="video/webm" />
 </video>
 
 [FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_opentelemetry_xkcd_927_success_story/)
