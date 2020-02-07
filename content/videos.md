@@ -22,6 +22,30 @@ by Loïc Hoguin
 
 ------
 
+### OpenTelemetry: an XKCD 927 Success Story
+
+by Greg Mefford
+
+<video controls>
+</video>
+
+[FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_opentelemetry_xkcd_927_success_story/)
+
+------
+
+### Debugging and tracing a production RabbitMQ node
+
+by Gabriele Santomaggio
+
+<video controls>
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_debugging_tracing_rabbitmq_node.mp4" type="video/mp4" />
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_debugging_tracing_rabbitmq_node.webm" type="video/webm" />
+</video>
+
+[FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_debugging_tracing_rabbitmq_node/)
+
+------
+
 ### Keep Calm and Use Nerves
 
 by Arjan Scherpenisse
@@ -50,7 +74,7 @@ by Luke Imhoff
 
 ### CoffeeBeam: A BEAM VM for Android
 
-by 	Viktor Gergely
+by Viktor Gergely
 
 <video controls>
   <source src="https://video.fosdem.org/2020/AW1.121/beam_coffeebeam_beam_vm_android.mp4" type="video/mp4" />
@@ -58,3 +82,27 @@ by 	Viktor Gergely
 </video>
 
 [FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_coffeebeam_beam_vm_android/)
+
+------
+
+### Going Meta with Elixir's Macros
+
+by Wiebe-Marten Wijnja
+
+<video controls>
+</video>
+
+[FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_coffeebeam_beam_vm_android/)
+
+------
+
+### Processes & Grains: A Journey in Orleans
+
+by Evadne Wu
+
+<video controls>
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_processes_grains_journey_orleans.mp4" type="video/mp4" />
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_processes_grains_journey_orleans.webm" type="video/webm" />
+</video>
+
+[FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_processes_grains_journey_orleans/)
