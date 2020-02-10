@@ -85,6 +85,7 @@ by Viktor Gergely
 
 [FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_coffeebeam_beam_vm_android/)
 
+<!--
 ------
 
 ### Going Meta with Elixir's Macros
@@ -95,6 +96,7 @@ by Wiebe-Marten Wijnja
 </video>
 
 [FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_going_meta_elixir_macros/)
+-->
 
 ------
 
