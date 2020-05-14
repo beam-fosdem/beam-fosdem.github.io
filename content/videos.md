@@ -93,10 +93,12 @@ by Viktor Gergely
 by Wiebe-Marten Wijnja
 
 ⚠ Wiebe-Marten's talk had some slight audio issues and is still being edited. Come back later to check his great talk! ⚠
-<!-- <video controls> -->
-<!-- </video> -->
+<video controls>
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_going_meta_elixir_macros.mp4" type="video/mp4" />
+  <source src="https://video.fosdem.org/2020/AW1.121/beam_going_meta_elixir_macros.webm" type="video/webm" />
+</video>
 
-<!-- [FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_going_meta_elixir_macros/) -->
+[FOSDEM talk page](https://fosdem.org/2020/schedule/event/beam_going_meta_elixir_macros/) (doesn't contain the above videos yet)
 
 ------
 
