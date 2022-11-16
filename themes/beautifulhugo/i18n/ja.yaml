@@ -2,7 +2,7 @@
 - id: dateFormat
   translation: "2006年1月2日"
 - id: postedOnDate
-  translation: "{{ .Count }}に投稿"
+  translation: "{{ . }}に投稿"
 - id: translationsLabel
   translation: "翻訳："
 - id: translationsSeparator
@@ -24,7 +24,7 @@
 
 # Footer
 - id: poweredBy # Accepts HTML
-  translation: '起動力に<a href="http://gohugo.io">Hugo v{{ .Hugo.Version }}</a> &nbsp;&bull;&nbsp; テーマに<a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>に基づいている<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>'
+  translation: '起動力に<a href="http://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a> &nbsp;&bull;&nbsp; テーマに<a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>に基づいている<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>'
 
 # Navigation
 - id: toggleNavigation

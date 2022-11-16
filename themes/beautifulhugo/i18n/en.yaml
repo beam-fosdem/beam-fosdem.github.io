@@ -2,7 +2,7 @@
 - id: dateFormat
   translation: "January 2, 2006"
 - id: postedOnDate
-  translation: "Posted on {{ .Count }}"
+  translation: "Posted on {{ . }}"
 - id: translationsLabel
   translation: "Other languages: "
 - id: translationsSeparator
@@ -24,7 +24,7 @@
 
 # Footer
 - id: poweredBy # Accepts HTML
-  translation: '<a href="http://gohugo.io">Hugo v{{ .Hugo.Version }}</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>'
+  translation: '<a href="http://gohugo.io">Hugo v{{ .Site.Hugo.Version }}</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>'
 
 # Navigation
 - id: toggleNavigation
