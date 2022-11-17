@@ -1,4 +1,4 @@
-baseurl       = "https://beam-fosdem.org"
+baseurl       = "https://beam-fosdem.dev"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -12,7 +12,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 
 [Params]
-  subtitle = "Erlang, Elixir & Friends Devroom at FOSDEM'20"
+  subtitle = "Erlang, Elixir & Friends Devroom at FOSDEM'23"
   logo = "img/fosdem_circle.png"
   favicon = "img/fosdem.ico"
   dateFormat = "January 2, 2006"
@@ -23,23 +23,29 @@ pygmentCodeFences = true
 
 [Author]
   # name = ""
-  email = "beam-devroom@lists.fosdem.org"
-  gitlab = "dcaixinha/beam-fosdem"
+  email = "erlang-devroom-manager@fosdem.org"
+  github = "beam-fosdem/beam-fosdem.github.io"
 
 [[menu.main]]
-    name = "Schedule"
-    url = "schedule"
+    name = "Call for Talks"
+    url = "call-for-talks"
     weight = 1
-
-[[menu.main]]
-    name = "Videos"
-    url = "videos"
-    weight = 2
 
 [[menu.main]]
     name = "About Us"
     url = "about-us"
+    weight = 2
+
+[[menu.main]]
+    identifier = "previous-editions"
+    name = "Previous Editions"
     weight = 3
+
+[[menu.main]]
+    parent = "previous-editions"
+    name = "2020"
+    url = "2020-edition"
+    weight = 1
 
 [markup.goldmark.renderer]
     unsafe= true

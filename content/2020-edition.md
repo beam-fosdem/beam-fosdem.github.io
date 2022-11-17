@@ -1,11 +1,24 @@
 ---
-title: Talk videos
-subtitle: Video recordings from the FOSDEM BEAM devroom
-date: "2020-02-03"
+title: FOSDEM 2020
+subtitle: Erlang, Elixir & Friends Devroom
+date: "2022-11-17"
 comments: false
 ---
 
-## FOSDEM 2020
+## About
+
+The Erlang, Elixir and Friends devroom at FOSDEM 2020 was the 1st edition of a BEAM devroom at FOSDEM.
+
+It took place Saturday, 1st February 2020 and it was organized and managed by:
+
+  - Tonći Galić <a href="https://gitlab.com/Tuxified"><i class="fab fa-gitlab fa-lg" style="color:#FC6D27"></i></a> <a href="https://github.com/tuxified"><i class="fab fa-github fa-lg" style="color:black"></i></a> <a href="https://twitter.com/tuxified"><i class="fab fa-twitter fa-lg" style="color:#1DA1F2"></i></a>
+  - <a href="https://about.me/benoitc">Benoît Chesneau</a> <a href="https://gitlab.com/benoitc"><i class="fab fa-gitlab fa-lg" style="color:#FC6D27"></i></a> <a href="https://github.com/benoitc"><i class="fab fa-github fa-lg" style="color:black"></i></a> <a href="https://twitter.com/benoitc"><i class="fab fa-twitter fa-lg" style="color:#1DA1F2"></i></a>
+  - <a href="https://rbino.com">Riccardo Binetti</a> <a href="https://github.com/rbino"><i class="fab fa-github fa-lg" style="color:black"></i></a> <a href="https://twitter.com/errebino"><i class="fab fa-twitter fa-lg" style="color:#1DA1F2"></i></a>
+  - <a href="https://blog.uninstall.it/">Davide Bettio</a> <a href="https://github.com/bettio"><i class="fab fa-github fa-lg" style="color:black"></i></a> <a href="https://twitter.com/uninstall"><i class="fab fa-twitter fa-lg" style="color:#1DA1F2"></i></a>
+  - <a href="https://dnlserrano.dev/">Daniel Serrano</a> <a href="https://gitlab.com/dnlserrano"><i class="fab fa-gitlab fa-lg" style="color:#FC6D27"></i></a> <a href="https://github.com/dnlserrano"><i class="fab fa-github fa-lg" style="color:black"></i></a> <a href="https://twitter.com/dnlserrano"><i class="fab fa-twitter fa-lg" style="color:#1DA1F2"></i></a>
+  - <a href="https://caixinha.pt/">Daniel Caixinha</a> <a href="https://gitlab.com/dcaixinha/"><i class="fab fa-gitlab fa-lg" style="color:#FC6D27"></i></a> <a href="https://github.com/dcaixinha"><i class="fab fa-github fa-lg" style="color:black"></i></a>
+
+## Videos
 
 ------
 
