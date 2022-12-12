@@ -61,6 +61,6 @@ If you have issues with *Pentabarf* any other questions do not despair! Reach us
 ## Important dates
 
   - Call for participation opens: **11 November 2022**
-  - Call for participation closes: **12 December 2022, 12 PM UTC**
+  - Call for participation closes: **12 December 2022**
   - Devroom schedule available: **15 December 2022**
   - Devroom day: **Sunday, 5 February 2023 (9:00-12:50)**
