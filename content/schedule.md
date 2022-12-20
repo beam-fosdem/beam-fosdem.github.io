@@ -7,6 +7,8 @@ table: true
 
 **February 5th 2023** from **9.00 AM** to **12.50 PM** in room [**H.1309 (Van Rijn)**](https://nav.fosdem.org/l/h1309/@1,280.08,99.33,5).
 
+You can also check this schedule on the [FOSDEM website](https://fosdem.org/2023/schedule/track/erlang_elixir_and_friends/).
+
 |               | Title | Speaker | Description |
 |---------------|-------|---------|---|
 | 09:00-09:20 | Elixir - Old wine in new casks | [Tonći Galić](https://fosdem.org/2023/schedule/speaker/tonci_galic/) | Introductory talk about Elixir, elaborating on how it relates to Erlang. Is it really a new language or just an older idea in disguise? Let's talk about the key differences and what Elixir brings to the BEAM/Erlang ecosystem. |
