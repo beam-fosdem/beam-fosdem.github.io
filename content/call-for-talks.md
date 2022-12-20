@@ -5,6 +5,10 @@ date: "2022-11-17"
 comments: false
 ---
 
+{{% center %}}
+⚠️ _The Call for Talks has officially ended. You can find the final schedule [here](/schedule)_ ⚠️
+{{% /center %}}
+
 The Erlang, Elixir & Friends Devroom will take place in person at FOSDEM on **Sunday, 5th February 2023**.
 
 We invite authors to submit original, high-quality work with sufficient background material to be clear to the BEAM community.
@@ -51,12 +55,6 @@ If you already have a *Pentabarf* account from a previous FOSDEM edition, please
 When logged in *Pentabarf*, click on the *Create Event* button (on the left menu) to create your talk proposal. Before submitting your talk in *Pentabarf*, please make sure that *Erlang, Elixir & Friends Devroom* is selected as the Track, and also that the duration is the correct one.
 
 If you have issues with *Pentabarf* any other questions do not despair! Reach us via [email](mailto:erlang-devroom-manager@fosdem.org).
-
-<p style="text-align: center">
-  <a class="button" href="https://penta.fosdem.org/submission/FOSDEM23">
-    <i class="fab"><strong>Submit your talk!</strong></i>
-  </a>
-</p>
 
 ## Important dates
 
