@@ -32,20 +32,25 @@ pygmentCodeFences = true
     weight = 1
 
 [[menu.main]]
+    name = "Meetup"
+    url = "meetup"
+    weight = 2
+
+[[menu.main]]
     name = "About Us"
     url = "about-us"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     identifier = "previous-editions"
     name = "Previous Editions"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     parent = "previous-editions"
     name = "2020"
     url = "2020-edition"
-    weight = 1
+    weight = 5
 
 [markup.goldmark.renderer]
     unsafe= true
