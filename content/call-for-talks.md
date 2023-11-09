@@ -39,33 +39,31 @@ Please specify your preferred slot length, but note that we could ask submitters
 
 ## Submission details
 
-**Submission will be open soon.**
-<!--
 Please be aware of the fact that Devroom talks at FOSDEM will be recorded. By submitting a proposal you agree to being recorded and to have your talk made available.
 
 Submissions must include:
-  - Title (Event title in Pentabarf)
+  - Title (Event title in Pretalx)
   - Abstract
 
-These additional details must be included in the *Submission notes* section:
+These additional details must be included in the 'Submission notes' section:
+
   - Desired slot length (please specify if you're willing to accept a shorter slot if there's the need)
   - Expected prior knowledge / intended audience
   - Speaker bio
   - Links to previous talks by the speaker (optional)
   - Links to code / slides / material for the talk (optional)
 
-If you already have a *Pentabarf* account from a previous FOSDEM edition, please reuse it. Create an account if, and only if, you don’t have one from a previous year.
+Note that this year the submission system changed from Pentabarf to Pretalx and accounts were not migrated: you will have to create a new Pretalx account.
 
-When logged in *Pentabarf*, click on the *Create Event* button (on the left menu) to create your talk proposal. Before submitting your talk in *Pentabarf*, please make sure that *Erlang, Elixir, Gleam and Friends Devroom* is selected as the Track, and also that the duration is the correct one.
+Submit your proposal here: [https://pretalx.fosdem.org/fosdem-2024/cfp](https://pretalx.fosdem.org/fosdem-2024/cfp)
 
-If you have issues with *Pentabarf* any other questions do not despair! Reach us via [email](mailto:erlang-devroom-manager@fosdem.org).
--->
+When logged in, click on the ‘Submit a Proposal’ button to create your talk proposal. Before submitting your talk in Pretalx, please make sure that Erlang, Elixir, Gleam & Friends Devroom is selected as the Track, and also that the duration is the correct one.
 
-<!--
+If you have issues with Pretalx any other questions do not despair! Reach us at erlang-devroom-manager at fosdem.org.
+
 ## Important dates
 
-  - Call for participation opens: **11 November 2022**
-  - Call for participation closes: **12 December 2022**
+  - Call for participation opens: **10 November 2023**
+  - Call for participation closes: **12 December 2023**
   - Devroom schedule available: **15 December 2022**
-  - Devroom day: **Sunday, 5 February 2023 (9:00-12:50)**
--->
+  - Devroom day: **Saturday, 3 February 2023 (9:00-12:50)**
