@@ -4,7 +4,7 @@ At FOSDEM 2024 we're having the 3nd edition of a Devroom completely dedicated to
 
 ### When
 
-On Saturday (morning), 3th February 2024.
+On Saturday (morning), 3rd February 2024.
 
 ### Where
 
