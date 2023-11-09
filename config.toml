@@ -53,9 +53,15 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "previous-editions"
+    name = "2023"
+    url = "2023-edition"
+    weight = 5
+
+[[menu.main]]
+    parent = "previous-editions"
     name = "2020"
     url = "2020-edition"
-    weight = 5
+    weight = 6
 
 [markup.goldmark.renderer]
     unsafe= true
