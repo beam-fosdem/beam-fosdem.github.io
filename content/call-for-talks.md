@@ -11,7 +11,7 @@ comments: false
 {{% /center %}}
 -->
 
-The Erlang, Elixir, Gleam and Friends Devroom will take place in person at FOSDEM on **Saturday (morning), 3th February 2024**.
+The Erlang, Elixir, Gleam and Friends Devroom will take place in person at FOSDEM on **Saturday (morning), 3rd February 2024**.
 
 We invite authors to submit original, high-quality work with sufficient background material to be clear to the BEAM community.
 
