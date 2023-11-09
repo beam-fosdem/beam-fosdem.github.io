@@ -64,6 +64,6 @@ If you have issues with Pretalx any other questions do not despair! Reach us at 
 ## Important dates
 
   - Call for participation opens: **10 November 2023**
-  - Call for participation closes: **12 December 2023**
+  - Call for participation closes: **11 December 2023**
   - Devroom schedule available: **15 December 2022**
   - Devroom day: **Saturday, 3 February 2023 (9:00-12:50)**
