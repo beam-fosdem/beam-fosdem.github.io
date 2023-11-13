@@ -20,8 +20,8 @@ We invite authors to submit original, high-quality work with sufficient backgrou
 We welcome any talk proposals about BEAM-related projects. Topics of interest include, but are not limited to:
   - Languages running on the BEAM (Erlang, Elixir, Gleam, et al.)
       - Introduction to the language
-  - Recent features and roadmap
-  - Interesting libraries
+      - Recent features and roadmap
+      - Interesting libraries
   - Frameworks
   - Open Source projects that run on the BEAM
   - Tooling
@@ -39,27 +39,26 @@ Please specify your preferred slot length, but note that we could ask submitters
 
 ## Submission details
 
-Please be aware of the fact that Devroom talks at FOSDEM will be recorded. By submitting a proposal you agree to being recorded and to have your talk made available.
+Submit your proposal here: [https://pretalx.fosdem.org/fosdem-2024/cfp](https://pretalx.fosdem.org/fosdem-2024/cfp)
+
+When logged in, click on the ‘Submit a Proposal’ button to create your talk proposal. Before submitting your talk in Pretalx, please make sure that "Erlang, Elixir, Gleam and Friends" is selected as the Track.
 
 Submissions must include:
-  - Title (Event title in Pretalx)
+  - Title
   - Abstract
 
 These additional details must be included in the 'Submission notes' section:
 
   - Desired slot length (please specify if you're willing to accept a shorter slot if there's the need)
   - Expected prior knowledge / intended audience
-  - Speaker bio
   - Links to previous talks by the speaker (optional)
   - Links to code / slides / material for the talk (optional)
 
 Note that this year the submission system changed from Pentabarf to Pretalx and accounts were not migrated: you will have to create a new Pretalx account.
 
-Submit your proposal here: [https://pretalx.fosdem.org/fosdem-2024/cfp](https://pretalx.fosdem.org/fosdem-2024/cfp)
-
-When logged in, click on the ‘Submit a Proposal’ button to create your talk proposal. Before submitting your talk in Pretalx, please make sure that Erlang, Elixir, Gleam & Friends Devroom is selected as the Track, and also that the duration is the correct one.
-
 If you have issues with Pretalx any other questions do not despair! Reach us at erlang-devroom-manager at fosdem.org.
+
+Please be aware of the fact that Devroom talks at FOSDEM will be recorded. By submitting a proposal you agree to being recorded and to have your talk made available.
 
 ## Important dates
 
