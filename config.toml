@@ -27,14 +27,9 @@ pygmentCodeFences = true
   github = "beam-fosdem/beam-fosdem.github.io"
 
 [[menu.main]]
-    name = "Call for Talks"
-    url = "call-for-talks"
+    name = "Schedule"
+    url = "schedule"
     weight = 1
-
-#[[menu.main]]
-#    name = "Schedule"
-#    url = "schedule"
-#    weight = 1
 
 #[[menu.main]]
 #    name = "Meetup"

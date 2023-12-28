@@ -1,24 +1,24 @@
 ---
 title: Schedule
-date: "2022-12-20"
+date: "2023-12-27"
 comments: false
 table: true
 ---
 
-**February 5th 2023** from **9.00 AM** to **12.50 PM** in room [**H.1309 (Van Rijn)**](https://nav.fosdem.org/l/h1309/@1,280.08,99.33,5).
+**Saturday February 3rd 2024** from **10.30** to **14.30** in room [**K.4.601**](https://nav.fosdem.org/l/k4601/).
 
-You can also check this schedule on the [FOSDEM website](https://fosdem.org/2023/schedule/track/erlang_elixir_and_friends/).
+You can also check this schedule on the [FOSDEM website](https://fosdem.org/2024/schedule/track/erlang/).
 
-|               | Title | Speaker | Description |
-|---------------|-------|---------|---|
-| 09:00-09:20 | Elixir - Old wine in new casks | [Tonći Galić](https://fosdem.org/2023/schedule/speaker/tonci_galic/) | Introductory talk about Elixir, elaborating on how it relates to Erlang. Is it really a new language or just an older idea in disguise? Let's talk about the key differences and what Elixir brings to the BEAM/Erlang ecosystem. |
-| 09:30–09:50 | Introduction to Gleam | [Harry Bairstow](https://fosdem.org/2023/schedule/speaker/harry_bairstow/) | Introduction to Gleam by building type-safe Discord bots on the BEAM; exploring Gleam, OTP and more... |
-| 10:00–10:20 | Speak binary to me | [Troels Brødsgaard](https://fosdem.org/2023/schedule/speaker/troels_brodsgaard/) | Across the globe, in basements, factories, buildings and out of doors, millions of tiny (and not-so-tiny!) computers chatter with each other, constantly. But what do they say? And how can we talk to them? This talk is an introduction to binary pattern matching, a powerful syntax feature which Elixir has inherited from Erlang. When you learn it, it will open the doors to a world of communication that can otherwise seem obscure. During the talk, we will explore how binary pattern matching can be leveraged to implement low-level, binary communication formats in a succinct and performant manner. |
-| 10:30–10:50 | LiveView keeps you warm! | [Arjan Scherpenisse](https://fosdem.org/2023/schedule/speaker/arjan_scherpenisse/) | How easy is it to get started with LiveView as a backend developer? Is the "No javascript needed" true? In this talk I'll try to give answers to these questions by telling the story of how I used LiveView to make a new user interface for an old Passap E6000 knitting machine. |
-| 11:00–11:20 | Distributed music programming with Gleam, BEAM, and the Web Audio API | [Hayleigh Thompson](https://fosdem.org/2023/schedule/speaker/hayleigh_thompson/) | Gleam is a friendly statically typed language that targets the BEAM and JavaScript. In this talk we'll take a tour of Gleam by looking at its features, the ecosystem, and its interop with other BEAM languages as well as Javascript. All the while we'll be building up a distributed audio application that allows multiple clients to play with music and audio in real time. Prior knowledge of Gleam isn't necessary to get something out of this talk, and both those that are curious and skeptical of static typing are encouraged to attend and learn how Gleam might fit into their practice. |
-| 11:30–11:55 | The Actor Model as a Load Testing Framework | [Nelson Vides](https://fosdem.org/2023/schedule/speaker/nelson_vides/) | Scalability under load. The holy grail of much of a developer's life is that our software survives its beginning. The system went live. Made it to production. Got its first user. But surely, the true test of good software is how it lives up to expectation over its lifetime? After all, you wouldn't say a bridge or building was successful just because the first 100 cars made it across safely. In other forms of engineering, things are load tested under demand either by weight, shocks or overload. As a software developer we should be ensuring SLAs or exploring error conditions under extreme load. But what is “load” in the context of software? And how do we test its many different definitions? In this talk, I will present a relationship made in heaven, the relationship between the actor model and the answer to these questions. I will also introduce you to a library that applies all this knowledge in a ready-to-use dependency. |
-| 12:05–12:25 | Shorter feedback loops with Livebook | [Linus De Meyere](https://fosdem.org/2023/schedule/speaker/linus_de_meyere/) | Learning from Python's Jupyter Notebooks, Livebooks are all about getting you up and running as fast as possible. Forget those throwaway prototypes. Livebook gives you a playground to get insights, document snippets and share ideas about anything code-related. I'll show how we use Livebook to mitigate risks early on in the conception phase. We've used it to assess the feasibility of using Elixir in our tech stack for building solutions in new problem domains, without the need to build the whole thing. Shorten your feedback cycle and get to the core of your problems even faster with Livebook. |
-| 12:35–12:40 | Running Erlang and Elixir on microcontrollers with AtomVM | [Davide Bettio](https://fosdem.org/2023/schedule/speaker/davide_bettio/) | AtomVM is a tiny portable virtual machine that allows BEAM code to run on microcontrollers with less than 500KB of RAM such as ESP32, STM32 or RPI 2040 devices. In few words you can flash AtomVM on a microcontroller such as the ESP32 and get any virtually unmodified code compiled for the BEAM running on it. |
-| 12:40–12:50 | Dealing with a Monster Query | [Mackenzie Morgan](https://fosdem.org/2023/schedule/speaker/mackenzie_morgan/) | Once upon a time, there was a gnarly database query with a lot of OR cases. It was limiting capacity ahead of a high-traffic day. Could it be optimized? Thanks to a few features of Elixir, the answer was yes! Here’s how the Axios mobile app’s capacity increased 600% the day before the 2020 US presidential election. |
+|               | Title | Speaker(s) |
+|---------------|-------|---------|
+| 10:30-10:50 | [BEAM me up, Scotty](https://fosdem.org/2024/schedule/event/fosdem-2024-3612-beam-me-up-scotty/) | Arnaldo Cesco, Riccardo Binetti, Davide Bettio
+| 10:55–11:35 | [Gleam: Past, present, future!](https://fosdem.org/2024/schedule/event/fosdem-2024-2039-gleam-past-present-future-/)| Louis Piffold |
+| 11:40–12:00 | [Property based testing in Elixir](https://fosdem.org/2024/schedule/event/fosdem-2024-3473-property-based-testing-in-elixir/) | Tonći Galić |
+| 12:05–12:25 | [Gleam in the machine: phantom types and the builder pattern](https://fosdem.org/2024/schedule/event/fosdem-2024-2064-gleam-in-the-machine-phantom-types-and-the-builder-pattern-/) | Hayleigh Thompson |
+| 12:30–12:50 | [gen_statem Unveiled: A Theoretical Exploration of State Machines](https://fosdem.org/2024/schedule/event/fosdem-2024-2130-genstatem-unveiled-a-theoretical-exploration-of-state-machines/) | Nelson Vides |
+| 12:55–13:15 | [Type-safe Queries with Gleam & GraphQL](https://fosdem.org/2024/schedule/event/fosdem-2024-2044-type-safe-queries-with-gleam-graphql/) | Harry Bairstow |
+| 13:20–13:40 | [Implementing UDP protocols in Elixir](https://fosdem.org/2024/schedule/event/fosdem-2024-2256-implementing-udp-protocols-in-elixir/) | Andrei Zvonimir Crnkovic |
+| 13:45–14:05 | [Evolve your (web)app while it is running](https://fosdem.org/2024/schedule/event/fosdem-2024-3258-evolve-your-web-app-while-it-is-running/) | Kero van Gelder |
+| 14:10–14:30 | [Guess Less with Erlang Doctor](https://fosdem.org/2024/schedule/event/fosdem-2024-3278-guess-less-with-erlang-doctor/) | Paweł Chrząszcz |
 
 We'd like to thank everyone who submitted talks. See you in Brussels! 🇧🇪
