@@ -16,9 +16,9 @@ You can also check this schedule on the [FOSDEM website](https://fosdem.org/2024
 | 11:40–12:00 | [Property based testing in Elixir](https://fosdem.org/2024/schedule/event/fosdem-2024-3473-property-based-testing-in-elixir/) | Tonći Galić |
 | 12:05–12:25 | [Gleam in the machine: phantom types and the builder pattern](https://fosdem.org/2024/schedule/event/fosdem-2024-2064-gleam-in-the-machine-phantom-types-and-the-builder-pattern-/) | Hayleigh Thompson |
 | 12:30–12:50 | [gen_statem Unveiled: A Theoretical Exploration of State Machines](https://fosdem.org/2024/schedule/event/fosdem-2024-2130-genstatem-unveiled-a-theoretical-exploration-of-state-machines/) | Nelson Vides |
-| 12:55–13:15 | [Type-safe Queries with Gleam & GraphQL](https://fosdem.org/2024/schedule/event/fosdem-2024-2044-type-safe-queries-with-gleam-graphql/) | Harry Bairstow |
+| 12:55–13:15 | [Guess Less with Erlang Doctor](https://fosdem.org/2024/schedule/event/fosdem-2024-3278-guess-less-with-erlang-doctor/) | Paweł Chrząszcz |
 | 13:20–13:40 | [Implementing UDP protocols in Elixir](https://fosdem.org/2024/schedule/event/fosdem-2024-2256-implementing-udp-protocols-in-elixir/) | Andrei Zvonimir Crnkovic |
 | 13:45–14:05 | [Evolve your (web)app while it is running](https://fosdem.org/2024/schedule/event/fosdem-2024-3258-evolve-your-web-app-while-it-is-running/) | Kero van Gelder |
-| 14:10–14:30 | [Guess Less with Erlang Doctor](https://fosdem.org/2024/schedule/event/fosdem-2024-3278-guess-less-with-erlang-doctor/) | Paweł Chrząszcz |
+| 14:10–14:30 | [Type-safe Queries with Gleam & GraphQL](https://fosdem.org/2024/schedule/event/fosdem-2024-2044-type-safe-queries-with-gleam-graphql/) | Harry Bairstow |
 
 We'd like to thank everyone who submitted talks. See you in Brussels! 🇧🇪
