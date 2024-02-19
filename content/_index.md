@@ -1,15 +1,9 @@
-## Welcome!
+## Thank you!
 
-At FOSDEM 2024 we're having the 3rd edition of a Devroom completely dedicated to the BEAM (and all
-languages running on it). [FOSDEM](https://fosdem.org/) is an annual conference about free and open
-source software, attended by over 8000 developers and open-source enthusiasts from all over the
-world.
+The BEAM Devroom at FOSDEM 2024 was a blast, thanks to everyone who submitted and participated!
 
-### When and where
+You can find all the videos in the newly added [2024 archive page](/2024-edition).
 
-The devroom will take place on Saturday, 3rd February 2023, between 10:30 and 14:30. It will be
-hosted in Room [K.4.601](https://nav.fosdem.org/l/k4601/) at [ULB Campus Solbosch (Brussels,
-Belgium)](https://www.openstreetmap.org/node/1632534522).
+### BEAM Devroom @ FOSDEM 2025?
 
-We have a [great schedule]({{< ref "schedule.md" >}}) ready for you, so we hope to meet you in
-Brussels! 🇧🇪
+TBD
