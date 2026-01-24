@@ -10,7 +10,7 @@ This is not a regular devroom, this is a distributed devroom. Talks will be held
 Here is the schedule:
 
 |               | Track | Title | Speaker |
-|---------------|-------|---------|
+|---------------|-------|-------|---------|
 | H.1309 Saturday 13:00-13:30 | [Browser and web platform](https://fosdem.org/2026/schedule/track/browser-and-web-platform/) | [Making Web Components work: a framework's perspective.](https://fosdem.org/2026/schedule/event/9MJ8LX-making-web-components-work/) | Hayleigh Thompson |
 | UB2.252A Saturday 14.25-14.45 | [Databases](https://fosdem.org/2026/schedule/track/databases/) | [You do not need an ORM](https://fosdem.org/2026/schedule/event/F9Y7ZY-you-do-not-need-an-orm/) | [Giacomo Cavalieri](https://giacomocavalieri.me/) |
 | UA2.114 Saturday 15:55-16:15| [CRA in practice](https://fosdem.org/2026/schedule/track/cra-in-practice/) | [Erlang/OTP’s journey toward CRA compliance](https://fosdem.org/2026/schedule/event/JFJV3R-story-of-the-erlang-journey-towards-cra-compliance/) | Kiko Fernandez-Reyes |
