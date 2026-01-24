@@ -1,24 +1,18 @@
 ---
 title: Schedule
-date: "2023-12-27"
+date: "2025-01-24"
 comments: false
 table: true
 ---
 
-**Saturday February 3rd 2024** from **10.30** to **14.30** in room [**K.4.601**](https://nav.fosdem.org/l/k4601/).
+This is not a regular devroom, this is a distributed devroom. Talks will be held in different tracks and different days.
 
-You can also check this schedule on the [FOSDEM website](https://fosdem.org/2024/schedule/track/erlang/).
+Here is the schedule:
 
-|               | Title | Speaker(s) |
+|               | Track | Title | Speaker |
 |---------------|-------|---------|
-| 10:30-10:50 | [BEAM me up, Scotty](https://fosdem.org/2024/schedule/event/fosdem-2024-3612-beam-me-up-scotty/) | Arnaldo Cesco, Riccardo Binetti, Davide Bettio
-| 10:55–11:35 | [Gleam: Past, present, future!](https://fosdem.org/2024/schedule/event/fosdem-2024-2039-gleam-past-present-future-/)| Louis Piffold |
-| 11:40–12:00 | [Property based testing in Elixir](https://fosdem.org/2024/schedule/event/fosdem-2024-3473-property-based-testing-in-elixir/) | Tonći Galić |
-| 12:05–12:25 | [Gleam in the machine: phantom types and the builder pattern](https://fosdem.org/2024/schedule/event/fosdem-2024-2064-gleam-in-the-machine-phantom-types-and-the-builder-pattern-/) | Hayleigh Thompson |
-| 12:30–12:50 | [gen_statem Unveiled: A Theoretical Exploration of State Machines](https://fosdem.org/2024/schedule/event/fosdem-2024-2130-genstatem-unveiled-a-theoretical-exploration-of-state-machines/) | Nelson Vides |
-| 12:55–13:15 | [Guess Less with Erlang Doctor](https://fosdem.org/2024/schedule/event/fosdem-2024-3278-guess-less-with-erlang-doctor/) | Paweł Chrząszcz |
-| 13:20–13:40 | [Implementing UDP protocols in Elixir](https://fosdem.org/2024/schedule/event/fosdem-2024-2256-implementing-udp-protocols-in-elixir/) | Andrei Zvonimir Crnkovic |
-| 13:45–14:05 | [Evolve your (web)app while it is running](https://fosdem.org/2024/schedule/event/fosdem-2024-3258-evolve-your-web-app-while-it-is-running/) | Kero van Gelder |
-| 14:10–14:30 | [Type-safe Queries with Gleam & GraphQL](https://fosdem.org/2024/schedule/event/fosdem-2024-2044-type-safe-queries-with-gleam-graphql/) | Harry Bairstow |
-
-We'd like to thank everyone who submitted talks. See you in Brussels! 🇧🇪
+| H.1309 Saturday 13:00-13:30 | [Browser and web platform](https://fosdem.org/2026/schedule/track/browser-and-web-platform/) | [Making Web Components work: a framework's perspective.](https://fosdem.org/2026/schedule/event/9MJ8LX-making-web-components-work/) | Hayleigh Thompson |
+| UB2.252A Saturday 14.25-14.45 | [Databases](https://fosdem.org/2026/schedule/track/databases/) | [You do not need an ORM](https://fosdem.org/2026/schedule/event/F9Y7ZY-you-do-not-need-an-orm/) | [Giacomo Cavalieri](https://giacomocavalieri.me/) |
+| UA2.114 Saturday 15:55-16:15| [CRA in practice](https://fosdem.org/2026/schedule/track/cra-in-practice/) | [Erlang/OTP’s journey toward CRA compliance](https://fosdem.org/2026/schedule/event/JFJV3R-story-of-the-erlang-journey-towards-cra-compliance/) | Kiko Fernandez-Reyes |
+| H.2215 Sunday 12:00-12:15 | [/dev/random](https://fosdem.org/2026/schedule/track/dev-random/) | [AtomVM: Elixir, Erlang, and Gleam on Microcontrollers](https://fosdem.org/2026/schedule/event/YP97YR-atomvm_elixir_erlang_and_gleam_on_microcontrollers/) | [Davide Bettio](https://uninstall.it/) |
+| UA2.220 Sunday 13:40-14:05 | [Music Production](https://fosdem.org/2026/schedule/track/music-production/) | [midiMESH: Network MIDI with Elixir on ESP32 via AtomVM](https://fosdem.org/2026/schedule/event/QQRETA-midimesh_network_midi_with_elixir_on_esp32_via_atomvm/) | [Asep Bagja Priandana](https://www.asepbagja.com/) |
