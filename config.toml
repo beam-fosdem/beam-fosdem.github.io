@@ -12,7 +12,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 
 [Params]
-  subtitle = "Erlang, Elixir, Gleam and Friends at FOSDEM'24"
+  subtitle = "Erlang, Elixir, Gleam and Friends at FOSDEM'26"
   logo = "img/fosdem_circle.png"
   favicon = "img/fosdem.ico"
   dateFormat = "January 2, 2006"
