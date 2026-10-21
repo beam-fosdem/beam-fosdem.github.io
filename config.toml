@@ -12,7 +12,7 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 
 [Params]
-  subtitle = "Erlang, Elixir, Gleam and Friends at FOSDEM'26"
+  subtitle = "Erlang, Elixir, Gleam and Friends at FOSDEM'27"
   logo = "img/fosdem_circle.png"
   favicon = "img/fosdem.ico"
   dateFormat = "January 2, 2006"
@@ -27,9 +27,14 @@ pygmentCodeFences = true
   github = "beam-fosdem/beam-fosdem.github.io"
 
 [[menu.main]]
-    name = "Schedule"
-    url = "schedule"
+    name = "Call for Talks"
+    url = "call-for-talks"
     weight = 1
+
+#[[menu.main]]
+#    name = "Schedule"
+#    url = "schedule"
+#    weight = 1
 
 #[[menu.main]]
 #    name = "Meetup"
@@ -48,21 +53,27 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "previous-editions"
+    name = "2026"
+    url = "2026-edition"
+    weight = 5
+
+[[menu.main]]
+    parent = "previous-editions"
     name = "2024"
     url = "2024-edition"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     parent = "previous-editions"
     name = "2023"
     url = "2023-edition"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     parent = "previous-editions"
     name = "2020"
     url = "2020-edition"
-    weight = 7
+    weight = 8
 
 [markup.goldmark.renderer]
     unsafe= true
