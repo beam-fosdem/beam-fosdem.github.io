@@ -15,7 +15,6 @@ Saturday (afternoon), 30th January 2027.
 
 ### Call for Talks
 
-The Call for Talks will open soon. In the meantime, have a look at the [topics we're looking for]({{< ref "call-for-talks.md" >}})
-and start thinking about your talk proposal. We hope to see you in Brussels!
+The [Call for Talks](/call-for-talks/) are now open! You have until the 3rd of December to submit. We're looking forward to your talk proposals and hope to see you in Brussels!
 
 Last, but not least, be aware of FOSDEM’s [Code of Conduct](https://fosdem.org/2027/practical/conduct/).
